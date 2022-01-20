@@ -1,0 +1,34 @@
+{
+    "usuarios":[{
+        "email": "blueowl2794@gmail.com",
+        "familyName": "Olarte Molina",
+        "givenName": "Erik Santiago",
+        "googleId": "108572354537016537304",
+        "imageUrl": "https://lh3.googleusercontent.com/a-/AOh14GjnAnQOHVLjFjLdnf2rqs-EBk31xWkZ7U8g9KmS=s96-c",
+        "name": "Erik Santiago Olarte Molina",
+        "userName": "Santiago",
+        "registro": "19/01/2022",
+        "tipoUser": "Vendedor",
+        "password": "af8f9dffa5d420fbc249141645b962ee"
+    },
+    {
+        "Ba": "108572354537016537304",
+        "accessToken": "ya29.A0ARrdaM-ZHOALvRFDztUFh9Bh6kTeun8nGNeTGLmktEKeqwRglzcncGYhb1ybG9Rn9uceplrUXhvRPHrSNgDvwoNeivV37_-CGI4cJnARnjQezKQnEWh04uQ6nNpYpx6mTCWbGqtUx7-x32tPUmIuvUtVVb8YeQ",
+        "googleId": "108572354537016537304",
+        "profileObj": {
+            "googleId": "108572354537016537304", 
+            "imageUrl": "https://lh3.googleusercontent.com/a-/AOh14GjnAnQOHVLjFjLdnf2rqs-EBk31xWkZ7U8g9KmS=s96-c", 
+            "email": "blueowl2794@gmail.com", 
+            "name": "Erik Santiago Olarte Molina", 
+            "givenName": "Erik Santiago"
+        },
+        "tokenId": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImNhMDA2MjBjNWFhN2JlOGNkMDNhNmYzYzY4NDA2ZTQ1ZTkzYjNjYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiMzU5Mjc2ODg3NjYxLTUyZW5rcjdnamhuNW05aG0zZTN0NDVqdW1xam5mbnZqLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMzU5Mjc2ODg3NjYxLTUyZW5rcjdnamhuNW05aG0zZTN0NDVqdW1xam5mbnZqLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA4NTcyMzU0NTM3MDE2NTM3MzA0IiwiZW1haWwiOiJibHVlb3dsMjc5NEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6Ii0tYkkzQVlEVHJENHFmN1N4NkRCOVEiLCJuYW1lIjoiRXJpayBTYW50aWFnbyBPbGFydGUgTW9saW5hIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BT2gxNEdqbkFuUU9IVkxqRmpMZG5mMnJxcy1FQmszMXhXa1o3VThnOUttUz1zOTYtYyIsImdpdmVuX25hbWUiOiJFcmlrIFNhbnRpYWdvIiwiZmFtaWx5X25hbWUiOiJPbGFydGUgTW9saW5hIiwibG9jYWxlIjoiZXMtNDE5IiwiaWF0IjoxNjQyNjEwNDc2LCJleHAiOjE2NDI2MTQwNzYsImp0aSI6IjFjYTIyN2VmZWYwN2FkMjc3NjA2ZTRmY2YzYWIyZWQwNDFhNDFlZTgifQ.GpFHG5DV0zgI05iV2DjpLoUO7veZaZ1vl40K23QBS-RICjif_fRQOru4balGXAOMQD79_kozCzTVvDHz987hawWgRWj9xCVcTeYQ3Hr5jROVhC9nSKYWj8r7B-9uOigB8gO2N2675gta3HOpxlB8I6jU4n2CCjicZOBrPwJtf5_nkUtG0EvmlUWs1Awk8_A5Mnc2Km26rSx8VHs_CNJNNGZq1TcUmjy_QNC_tliJ68HrdIUNRHKshYjBcLt3PunPpA8J9BLnhGHbQxVp5nLb7r16YyIk1ZIqvrUwFVqCXSBU3fHOnKkYXQ3TuDW8DmRR3Wf96oD2T-9Yh-zCWvYATg",
+        "tokenObj": {
+            "token_type": "Bearer", "access_token": "ya29.A0ARrdaM-ZHOALvRFDztUFh9Bh6kTeun8nGNeTGLmktEK…KQnEWh04uQ6nNpYpx6mTCWbGqtUx7-x32tPUmIuvUtVVb8YeQ", 
+            "scope": "email profile https://www.googleapis.com/auth/user… https://www.googleapis.com/auth/userinfo.profile", 
+            "login_hint": "AJDLj6JUa8yxXrhHdWRHIV0S13cAqkvYgnT34yF4a_33-wBQogy_rtlm0UlzegaRq4Mfe77vam1Elo3Fy5DFMJUOiO1vJZqwgQ", 
+            "expires_in": "3599"
+    }}
+    
+]
+}
